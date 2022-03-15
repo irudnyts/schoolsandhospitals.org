@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Reconstruct schools and hospitals in Kharkiv
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 publishDir: docs
@@ -27,11 +27,11 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Rebuild schools and hospitals in Kharkiv 🇺🇦
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Nonprofit fund for schools and hospitals reconstruction in Kharkiv, Ukraine
     # Button text
-    buttontext: Get started
+    buttontext: Donate
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
@@ -45,23 +45,20 @@ params:
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: Our mission
     url: /
-  - title: Pricing
-    url: /
-  - title: Dropdown
+  - title: Getting involved
     sublinks:
-    - title: Dropdown item
+    - title: Sign up for volunteering
       url: /
-    - title: Dropdown item
+    - title: Donate
       url: /
-    - title: Dropdown item
+    - title: Submit a destroyed school or hospital
       url: /
-  - title: Log in
+  - title: Our contributors
     url: /
-  - title: Sign up
+  - title: Dameged schools and hospitals
     url: /
-    button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
     logo: fresh-square

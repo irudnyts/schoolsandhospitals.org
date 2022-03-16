@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://something-fresh.org/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/mission/</loc>
+  </url>
+  
+  <url>
     <loc>http://something-fresh.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/evidences/</loc>
   </url>
   
 </urlset>

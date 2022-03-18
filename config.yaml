@@ -27,13 +27,13 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Rebuild schools and hospitals in Kharkiv 🇺🇦
+    title: Rebuild schools and hospitals in Kharkiv
     # Hero subtitle (optional)
-    subtitle: Nonprofit fund for schools and hospitals reconstruction in Kharkiv, Ukraine
+    subtitle: Nonprofit fund for schools and hospitals reconstruction in Kharkiv, Ukraine 🇺🇦
     # Button text
     buttontext: Donate
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "https://schoolsandhospitals.org/donate"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -46,19 +46,19 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Our mission
-    url: /
+    url: /mission
   - title: Getting involved
     sublinks:
     - title: Sign up for volunteering
-      url: /
+      url: /volunteering
     - title: Donate
-      url: /
-    - title: Submit a destroyed school or hospital
-      url: /
+      url: /donate
+    - title: 🇺🇦 Завантажити зруйновну школу або лікарню
+      url: https://forms.gle/aBdVZbp6m91wdAYs8
   - title: Our contributors
-    url: /
+    url: /contributors
   - title: Dameged schools and hospitals
-    url: /
+    url: /evidences
   sidebar:
     # Logo (from /images/logos/___.svg)
     logo: fresh-square
@@ -163,8 +163,8 @@ params:
       icon: dribbble
     - link: https://facebook.com/#
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
+    - link: https://instagram.com/schoolsandhospitals
+      icon: instagram
     - link: https://bitbucket.org/#
       icon: bitbucket
     bulmalogo: true

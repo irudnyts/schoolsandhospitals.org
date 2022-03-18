@@ -7,6 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Donate</title>
+      <link>http://something-fresh.org/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/donate/</guid>
+      <description>Currently, there is only one method of donations is possible, namely via PayPal. We are working on other secure ways of donating.
+PayPal Please use this link to donate.
+SEPA bank transfer TBA.
+ If you have any questions about donation, please do not hesitate to write to us.</description>
+    </item>
+    
+    <item>
       <title>Our contributors</title>
       <link>http://something-fresh.org/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,9 +45,9 @@ Introduction On February 24, 2022, Russia has launched a full-scale war against 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://something-fresh.org/evidences/</guid>
-      <description>.scroll-container{ overflow: auto; white-space: nowrap; padding: 5px 70px 5px 20px; background: transparent; height: 320px; border-radius:15px; } .gridscroll{ display:inline-block; } .gridscroll img { height: 300px; width: auto; margin-right:22px; }  On this page, you can find collected visual evidences of destroyed schools and hospitals.
-‼️ Since these images might be used by the Russian army to adjust their targets, we will post images with the delay. ‼️
-📣 🇺🇸 If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this link.</description>
+      <description>.scroll-container{ overflow: auto; white-space: nowrap; padding: 5px 70px 5px 20px; background: transparent; height: 320px; border-radius:15px; } .gridscroll{ display:inline-block; } .gridscroll img { height: 300px; width: auto; margin-right:22px; }  📣 🇺🇸 On this page, you can find collected visual evidences of destroyed schools and hospitals.
+If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this link.
+‼️ Since these images might be used by the Russian army to adjust their targets, we will post images with the delay.</description>
     </item>
     
   </channel>

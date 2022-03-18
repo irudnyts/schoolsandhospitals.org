@@ -26,13 +26,21 @@ include_footer: true
 }
 </style>
 
+## 📣 🇺🇸
+
 On this page, you can find collected visual evidences of destroyed schools and hospitals.
+
+If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this [link](https://forms.gle/aBdVZbp6m91wdAYs8).
 
 ‼️ Since these images might be used by the Russian army to adjust their targets, we will post images with the delay. ‼️
 
-📣 🇺🇸  If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this link.
+## 📣 🇺🇦
 
-📣 🇺🇦 Якщо у вас є доказі зруйнованих шкіл чи лікарень, будь ласка, завантажте їх використовуючи наступне посилання.
+На цій сторінці ви можете знайти візуальні докази знищенних шкіл та лікарень.
+
+Якщо у вас є доказі зруйнованих шкіл чи лікарень у Харкові, будь ласка, завантажте їх використовуючи наступне [посилання](https://forms.gle/aBdVZbp6m91wdAYs8).
+
+‼️ Щоб уникнути корректировку вогню, фотографії будуть опубліковані із запіздненням ‼️
 
 
 ## Schools

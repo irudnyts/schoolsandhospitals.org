@@ -3,7 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://something-fresh.org/cookies/</loc>
+  </url>
+  
+  <url>
     <loc>http://something-fresh.org/donate/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/legal/</loc>
   </url>
   
   <url>
@@ -12,6 +20,10 @@
   
   <url>
     <loc>http://something-fresh.org/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>http://something-fresh.org/privacy/</loc>
   </url>
   
   <url>

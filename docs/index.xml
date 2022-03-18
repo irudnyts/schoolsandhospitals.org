@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cookies</title>
+      <link>http://something-fresh.org/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/cookies/</guid>
+      <description>LAST UPDATED: March 18, 2022
+Cookies are small text files that are stored on your device. They enable to store some information on your device that is accessible only by a web server of a specific domain. Cookies neither can run the code on your device nor are able to transmit viruses to your device.
+Our website use only limited types of cookies, namely analytical cookies. We use these cookies to improve your experience.</description>
+    </item>
+    
+    <item>
       <title>Donate</title>
       <link>http://something-fresh.org/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,6 +27,16 @@
 PayPal Please use this link to donate.
 SEPA bank transfer TBA.
  If you have any questions about donation, please do not hesitate to write to us.</description>
+    </item>
+    
+    <item>
+      <title>Legal information</title>
+      <link>http://something-fresh.org/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/legal/</guid>
+      <description>LAST UPDATED: March 18, 2022
+Our fund is currently in the process of registering as a German nonprofit organization in a form of gUG (gemeinnützige Unternehmergesellschaft).</description>
     </item>
     
     <item>
@@ -37,6 +58,17 @@ List of incredible individuals: *</description>
       <guid>http://something-fresh.org/mission/</guid>
       <description>LAST UPDATED: March 15, 2022
 Introduction On February 24, 2022, Russia has launched a full-scale war against Ukraine. Despite false claims by the Russian government that only military objects will be targeted, the Russian army intentionally shelled and killed civilians. The Office of the UN High Commissioner for Human Rights has recorded 1&#39;834 civilian casualties in the country (691 killed and 1&#39;143 injured)1. As of March 14, Mariupol alone lost 2&#39;357 human lives2 according to Mariupol City Council.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://something-fresh.org/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/privacy/</guid>
+      <description>LAST UPDATED: March 18, 2022
+Your data privacy is a priority for us. We value your rights of data protection and do our best to secure your data in any meaningful way.
+We collect only the necessary information and minimize the collection of your personal information. For example, we do not collect such identifiable information as names, physical addresses, birthdays, telephone numbers, credit card details, etc. On the other hand, we do collect your email address to provide acknowledgments, since it is crucial for our fund.</description>
     </item>
     
     <item>

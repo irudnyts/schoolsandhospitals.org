@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Reconstruct schools and hospitals in Kharkiv
+title: Rebuild schools and hospitals in Kharkiv
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 publishDir: docs
@@ -151,22 +151,15 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: logo-alt.png
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Contact Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
-      icon: facebook
     - link: https://instagram.com/schoolsandhospitals
       icon: instagram
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: mailto:rebuild@schoolsandhospitals.org
+      icon: envelope
     bulmalogo: true
     quicklinks:
       column1:

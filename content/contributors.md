@@ -8,7 +8,10 @@ include_footer: true
 LAST UPDATED: March 15, 2022
 
 List of incredible organizations:
+
 *
 
 List of incredible individuals:
-* 
+
+* Cindy Wang
+* Ilia Azizi

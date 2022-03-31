@@ -94,24 +94,21 @@ params:
       - text: App settings
         url: /
   section1:
-    title: Great power comes
+    title: Summary statistics
     subtitle: with great responsibility
     tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
+    - title: Schools destroyed
+      number: 69
+      text: Out of 209 (33%)
+    - title: Hospitals destroyed
+      number: 15
+      text: Out of 20 (75%)
+    - title: Donations collected
+      number: 1 EUR
+      text: From 1 individuals and 0 organizations
+    - title: Donations spent
+      number: 0 EUR
+      text: 0 objects fully restored
   section2:
     title: What makes us different from other funds?
     features:

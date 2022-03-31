@@ -13,18 +13,37 @@ On February 24, 2022, Russia has launched a full-scale war against Ukraine. Desp
 
 The horror and terror of war does not stop here. Due to the war, 2.5 million of people are forced to leave their homes, mostly woman and children. Approximately 600 civilians buildings[^1], almost 50 schools[^2], and 22 kindergardens[^3] are fully or partially destroyed. In Kharkiv alone. The entire city's infrastructure is wiped out. It means that there is **no place to come back**.
 
-Unfortunately, the war is not over yet. The humanity is still fighting with the terror, but we truly believe that the victory is not far. However, after the victory, challenging times will come -- 2.5 million people will come back to the cities that are practically annihilated.
+Unfortunately, the war is not over yet. The humanity is still fighting with the terror, but we truly believe that the victory is not far. However, after the victory, challenging times will come -- 2.5 million people will come back to the cities that are practically annihilated. Ukrainian economy is drained right now due to war and requires some help outside.
 
-### Our mission
+We strongly believe that every single Ukrainian individual should have access to healthcare facilities, and every single Ukrainian child should have access to education system.
 
-Our mission is simple: reconstruct schools and hospitals in Kharkiv. Every single Ukrainian individual should have access to healthcare facilities, and every single Ukrainian child should have access to education system. Ukrainian economy is drained right now due to war and requires some help outside.
+### What we do?
 
+The purpose of this fund is rebuild schools and hospitals in Kharkiv, Ukraine. In order to make this process efficient, we tend to cover the entire cycle of operations:
+
+* Defining where the help needed (based on visual evidences and requests from authorities)
+* Collecting donations
+* Dealing with private Ukrainian vendors (e.g., construction companies, architecture firms, artists)
+*
+
+
+## Why your help is so important for us?
+
+### Why we do this?
+
+
+### What happens when you donate?
+
+### Why your donations and help are so important for us?
+
+Rebuilding schools and hospitals will help us to maintain two crucial
 
 
 ### What makes us different?
 
-### How to get involved?
+### How do we acknowledge?
 
+### Who we are?
 
 
 <!-- We strongly believe that every individual's rights

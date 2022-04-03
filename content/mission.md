@@ -7,6 +7,9 @@ include_footer: true
 
 LAST UPDATED: March 15, 2022
 
+
+### Why it is important
+
 ### Introduction
 
 On February 24, 2022, Russia has launched a full-scale war against Ukraine. Despite false claims by the Russian government that only military objects will be targeted, the Russian army intentionally shelled and killed civilians. The Office of the UN High Commissioner for Human Rights has recorded 1'834 civilian casualties in the country (691 killed and 1'143 injured)[^1]. As of March 14, Mariupol alone lost 2'357 human lives[^2] according to Mariupol City Council. The State Emergency Service of Ukraine reported the death of 500 civilians in Kharkiv[^3]. The Prosecutor's General Office of Ukraine announced that **97 children were killed**. There is no other word than **genocide** to describe these war crimes.
@@ -45,6 +48,10 @@ Rebuilding schools and hospitals will help us to maintain two crucial
 
 ### Who we are?
 
+### How it all get started
+
+
+At that time, they learned several valuable lessons. First, organized and coordinated common efforts are always more efficient than independent efforts of individuals. Second, it is necessary to look several steps ahead in order to foresee future needs.
 
 <!-- We strongly believe that every individual's rights
 

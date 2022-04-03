@@ -45,7 +45,7 @@ params:
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Our mission
+  - title: Mission
     url: /mission
   - title: Getting involved
     sublinks:
@@ -55,10 +55,12 @@ params:
       url: /donate
     - title: 🇺🇦 Завантажити зруйновну школу або лікарню
       url: https://forms.gle/aBdVZbp6m91wdAYs8
-  - title: Our contributors
+  - title: Contributors
     url: /contributors
   - title: Dameged schools and hospitals
     url: /evidences
+  - title: Team
+    url: /team
   sidebar:
     # Logo (from /images/logos/___.svg)
     logo: fresh-square

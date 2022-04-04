@@ -17,7 +17,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:
+  description: Help rebuilding and reconstructing damaged and destroyed schools and hospitals in Kharkiv, Ukraine
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo-long.jpg
@@ -115,11 +115,11 @@ params:
     title: What makes us different from other funds?
     features:
     - title: Full transperancy
-      text: We are independent non-governmental fund, that is not linked to any Ukrainian instituion (our fund is to be registered in Germany). That makes us prone to any kind of coruption. Our team work for top world comanies and instituions, that makes us credible. Further, we provide all receipts and transactions by request to our contributors.
+      text: We are an independent non-governmental fund, that is not linked to any Ukrainian institution (our fund is to be registered in Germany). That makes us prone to any kind of corruption. Our team works for top world companies and institutions, which makes us credible. Further, we provide all receipts and transactions by request to our contributors.
     - title: End-to-end solutions
-      text: We cover the full chain of reconstruction -- from collecting donations to the actual physical rebuilding. Our fund collaborates with European-recognized well-trusted architecture and construction companies. We also do not exclude the possiblity to consult with our contributors if they can advice better options.
+      text: We cover the full chain of reconstruction -- from collecting donations to delivering and installing equipment. We focus on targeted investments and define current critical needs. Some hospitals need windows to be replaced, and some schools require new internal furniture. We provide tangible yet feasible help.
     - title: Acknowledgments
-      text: We value your contribution and acknowledge it by every possible mean. In every reconstructed object, we will install a memorial desk with names and QR codes of our contributors and volunteers.
+      text: We value your contribution and acknowledge it by every possible means. We will install an engraved plaque with the name of the donator into every object that was bought by your donation. It is important for us that you feel your contribution.
   section3:
     title: One platform
     subtitle: To rule them all

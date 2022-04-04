@@ -120,6 +120,9 @@ You can see how this school looked like before the war at [Google Street View](h
       <img src="/images/schools/134/2.jpg">
       <img src="/images/schools/134/3.jpg">
       <img src="/images/schools/134/4.jpg">
+      <img src="/images/schools/134/5.jpg">
+      <img src="/images/schools/134/6.jpg">
+      <img src="/images/schools/134/7.jpg">
   </div>
 </div>
 
@@ -129,6 +132,16 @@ You can see how this school looked like before the war at [Google Street View](h
   <div class="gridscroll">
     <!-- PLACE YOUR IMG URL HERE -->
       <img src="/images/schools/unknown/1.jpg">
+      <img src="/images/schools/unknown/2.jpeg">
+      <img src="/images/schools/unknown/3.jpeg">
+      <img src="/images/schools/unknown/4.jpeg">
+      <img src="/images/schools/unknown/5.jpeg">
+      <img src="/images/schools/unknown/6.jpeg">
+      <img src="/images/schools/unknown/7.jpeg">
+      <img src="/images/schools/unknown/8.jpeg">
+      <img src="/images/schools/unknown/9.jpeg">
+      <img src="/images/schools/unknown/10.jpeg">
+      <img src="/images/schools/unknown/11.jpeg">
   </div>
 </div>
 

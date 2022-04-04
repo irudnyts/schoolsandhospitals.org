@@ -8,7 +8,7 @@ include_footer: true
 <div class="columns">
   <div class="column is-4 mt-60", align = "center">
     <p>
-      <h3>Paypal</h3>
+      <h3>PayPal</h3>
       <img src="/images/payment/paypal.png">
       <br>
       <div align="center">

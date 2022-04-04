@@ -30,7 +30,7 @@ include_footer: true
 
 On this page, you can find collected visual evidences of destroyed schools and hospitals.
 
-If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this [link](https://forms.gle/aBdVZbp6m91wdAYs8).
+If you have any visual evidences of schools or hospitals damages in Kharkiv, please submit them using this [link](https://forms.gle/aBdVZbp6m91wdAYs8). You can also find a list of schools that are destroyed using this [link](https://www.rbc.ua/rus/news/okkupanty-rf-obstrelivayut-shkoly-detsady-1647262203.html).
 
 ‼️ Since these images might be used by the Russian army to adjust their targets, we will post images with the delay. ‼️
 
@@ -38,7 +38,7 @@ If you have any visual evidences of schools or hospitals damages in Kharkiv, ple
 
 На цій сторінці ви можете знайти візуальні докази знищенних шкіл та лікарень.
 
-Якщо у вас є доказі зруйнованих шкіл чи лікарень у Харкові, будь ласка, завантажте їх використовуючи наступне [посилання](https://forms.gle/aBdVZbp6m91wdAYs8).
+Якщо у вас є доказі зруйнованих шкіл чи лікарень у Харкові, будь ласка, завантажте їх використовуючи наступне [посилання](https://forms.gle/aBdVZbp6m91wdAYs8). Ви також можете знайти список зруйнованих шкіл використовуючи наступне [посилання](https://www.rbc.ua/rus/news/okkupanty-rf-obstrelivayut-shkoly-detsady-1647262203.html).
 
 ‼️ Щоб уникнути корректировку вогню, фотографії будуть опубліковані із запіздненням ‼️
 

@@ -9,9 +9,14 @@ LAST UPDATED: March 15, 2022
 
 List of incredible organizations:
 
-*
+* Your company could be here 🤗
 
 List of incredible individuals:
 
+* Inés Guardans
+* Sven Bartel
+* Karen Tyler
+* Setareh Ranjbar
+* Panagiota Xydi
 * Cindy Wang
 * Ilia Azizi

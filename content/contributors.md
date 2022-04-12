@@ -13,6 +13,11 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* Giulia Ruggeri
+* Camila Chavez
+* Valérie Chavez-Demoulin
+* Enrico Chavez
+* Oksana Neverova
 * Inés Guardans
 * Sven Bartel
 * Karen Tyler

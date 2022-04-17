@@ -13,6 +13,8 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* Daniel Flores Agreda
+* Oriol Baulenas Muntañola
 * Ingrid Ødegaard Notø
 * Giulia Ruggeri
 * Camila Chavez

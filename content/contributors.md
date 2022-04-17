@@ -5,7 +5,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-LAST UPDATED: March 15, 2022
+LAST UPDATED: April 18, 2022
 
 List of incredible organizations:
 

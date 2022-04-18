@@ -13,6 +13,8 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* Ana Lucy Bejarano Montalvo
+* Kirill Nikitin
 * Daniel Flores Agreda
 * Oriol Baulenas Muntañola
 * Ingrid Ødegaard Notø

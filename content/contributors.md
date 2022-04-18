@@ -13,6 +13,7 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* Leonard Philippossian
 * Ana Lucy Bejarano Montalvo
 * Kirill Nikitin
 * Daniel Flores Agreda

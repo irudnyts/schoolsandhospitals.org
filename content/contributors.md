@@ -13,6 +13,8 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* David Pitteloud
+* Harry Taylor Anderson
 * Leonard Philippossian
 * Ana Lucy Bejarano Montalvo
 * Kirill Nikitin

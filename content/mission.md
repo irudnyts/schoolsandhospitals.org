@@ -23,7 +23,7 @@ Let us give a concrete example. School #134 was burned to the ground (please see
 
 Our fund tend to cover the entire process: (1) we collect donations, (2) we estimate losses and document damages, (3) we contact authorities to define the critical needs, (4) we perform the research to find the most cost-effective options of items on the market, (5) we acquire items and deliver them to schools and hospitals.
 
-Our priority is to maintain full transparency for our donators. We are not linked to any governmental institution, and therefore, prone to corruption. Further, all our transactions will be available by request to our donators in [Discord](https://discord.gg/xksyyn4YuW).
+Our priority is to maintain full transparency for our donators. We are not linked to any governmental institution, and therefore, immune to corruption. Further, all our transactions will be available by request to our donators in [Discord](https://discord.gg/xksyyn4YuW).
 
 Each school and hospital was damaged differently, and we would like to make sure that we restore the most critical objects. That is why we ask volunteers to document the damages, so that we can inspect them, estimate losses, and define our priorities.
 

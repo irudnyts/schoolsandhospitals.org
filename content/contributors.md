@@ -5,7 +5,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-LAST UPDATED: May 11, 2022
+LAST UPDATED: June 5, 2022
 
 List of incredible organizations:
 
@@ -13,6 +13,7 @@ List of incredible organizations:
 
 List of incredible individuals:
 
+* Kellen McCullum
 * Marc-Olivier Boldi
 * David Pitteloud
 * Harry Taylor Anderson
